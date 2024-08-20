@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\SwagLabs\SwagLabsPages\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\DELL\source\repos\SwagLabs\SwagLabsPages\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\DELL\source\repos\SwagLabs\SwagLabsPages\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\DELL\source\repos\SwagLabs\SwagLabsPages\bin\Debug\net6.0\SwagLabsPages.deps.json
+C:\Users\DELL\source\repos\SwagLabs\SwagLabsPages\bin\Debug\net6.0\SwagLabsPages.dll
+C:\Users\DELL\source\repos\SwagLabs\SwagLabsPages\bin\Debug\net6.0\SwagLabsPages.pdb
+C:\Users\DELL\source\repos\SwagLabs\SwagLabsPages\obj\Debug\net6.0\SwagLabsPages.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SwagLabs\SwagLabsPages\obj\Debug\net6.0\SwagLabsPages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\SwagLabs\SwagLabsPages\obj\Debug\net6.0\SwagLabsPages.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SwagLabs\SwagLabsPages\obj\Debug\net6.0\SwagLabsPages.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SwagLabs\SwagLabsPages\obj\Debug\net6.0\SwagLabsPages.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SwagLabs\SwagLabsPages\obj\Debug\net6.0\SwagLabsPages.dll
+C:\Users\DELL\source\repos\SwagLabs\SwagLabsPages\obj\Debug\net6.0\refint\SwagLabsPages.dll
+C:\Users\DELL\source\repos\SwagLabs\SwagLabsPages\obj\Debug\net6.0\SwagLabsPages.pdb
+C:\Users\DELL\source\repos\SwagLabs\SwagLabsPages\obj\Debug\net6.0\ref\SwagLabsPages.dll
