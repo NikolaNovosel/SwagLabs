@@ -4,9 +4,7 @@ namespace SwagLabsPages.Services
 {
     public static class UserCreator
     {
-        private static readonly string _userName = "userName";
-        private static readonly string _password = "password";
-        public static User WithValidCredentials() => new (TestDataReader.GetData(TestDataReader.UserType.valid, _userName), TestDataReader.GetData(TestDataReader.UserType.valid, _password));
-        public static User WithFakeCredentials() => new (TestDataReader.GetData(TestDataReader.UserType.fake, _userName), TestDataReader.GetData(TestDataReader.UserType.fake, _password));
+        public static User WithValidCredentials() => new(DataReader.GetValidUser(DataReader.User.userName), DataReader.GetValidUser(DataReader.User.password));
+        public static User WithFakeCredentials() => new(DataReader.GetFakeUser(DataReader.User.userName), DataReader.GetFakeUser(DataReader.User.password));
     }
 }

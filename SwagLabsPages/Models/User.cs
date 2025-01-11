@@ -10,13 +10,13 @@ namespace SwagLabsPages.Models
     {
         private readonly string _userName;
         private readonly string _password;
-
         public User(string userName, string password)
         {
             _userName = userName;
             _password = password;
         }
-
+        public string UserName => _userName;
+        public string Password => _password;
         public string GetUserName => _userName;
         public string GetPassword => _password;
     }

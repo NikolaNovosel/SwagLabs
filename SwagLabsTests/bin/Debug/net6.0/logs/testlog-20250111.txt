@@ -1,0 +1,36 @@
+2025-01-11 15:53:48.789 +01:00 [INF] Navigating to the login page.
+2025-01-11 15:53:49.786 +01:00 [INF] Typing any username.
+2025-01-11 15:53:50.454 +01:00 [INF] Entering the password.
+2025-01-11 15:53:50.853 +01:00 [INF] Clear the password field
+2025-01-11 15:53:50.944 +01:00 [INF] Click the login button
+2025-01-11 15:53:51.548 +01:00 [INF] Checking for an error message.
+2025-01-11 15:53:51.629 +01:00 [INF] Scenario passed: [Test login form with credentials by passing Username]
+2025-01-11 15:53:55.839 +01:00 [INF] Navigating to the login page.
+2025-01-11 15:53:56.687 +01:00 [INF] Typing any username and password.
+2025-01-11 15:53:56.795 +01:00 [INF] Clear the input fields
+2025-01-11 15:53:57.085 +01:00 [INF] Click the login button
+2025-01-11 15:53:57.325 +01:00 [INF] Checking for an error message.
+2025-01-11 15:53:57.371 +01:00 [INF] Scenario passed: [Test login form with empty credentials]
+2025-01-11 15:54:01.380 +01:00 [INF] Navigating to the login page.
+2025-01-11 15:54:02.350 +01:00 [INF] Typing valid username and password.
+2025-01-11 15:54:03.032 +01:00 [INF] Click the login button
+2025-01-11 15:54:03.368 +01:00 [INF] Checking for login error message.
+2025-01-11 15:54:03.466 +01:00 [INF] Scenario passed: [Test login form with valid credentials]
+2025-01-11 15:54:08.673 +01:00 [INF] Navigating to the login page.
+2025-01-11 15:54:09.694 +01:00 [INF] Typing any username.
+2025-01-11 15:54:10.098 +01:00 [INF] Entering the password.
+2025-01-11 15:54:10.143 +01:00 [INF] Clear the password field
+2025-01-11 15:54:10.291 +01:00 [INF] Click the login button
+2025-01-11 15:54:10.479 +01:00 [INF] Checking for an error message.
+2025-01-11 15:54:10.541 +01:00 [INF] Scenario passed: Test login form with credentials by passing Username
+2025-01-11 15:54:15.078 +01:00 [INF] Navigating to the login page.
+2025-01-11 15:54:15.554 +01:00 [INF] Typing any username and password.
+2025-01-11 15:54:16.358 +01:00 [INF] Clear the input fields
+2025-01-11 15:54:16.618 +01:00 [INF] Click the login button
+2025-01-11 15:54:16.838 +01:00 [INF] Checking for an error message.
+2025-01-11 15:54:16.911 +01:00 [INF] Scenario passed: Test login form with empty credentials
+2025-01-11 15:54:21.204 +01:00 [INF] Navigating to the login page.
+2025-01-11 15:54:22.027 +01:00 [INF] Typing valid username and password.
+2025-01-11 15:54:22.614 +01:00 [INF] Click the login button
+2025-01-11 15:54:22.848 +01:00 [INF] Checking for login error message.
+2025-01-11 15:54:22.963 +01:00 [INF] Scenario passed: Test login form with valid credentials

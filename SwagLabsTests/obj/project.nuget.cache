@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8INNBUqWcvI=",
+  "dgSpecHash": "PJ3AnA/VZZA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\SwagLabs\\SwagLabsTests\\SwagLabsTests.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\SwagLabs\\SwagLabs\\SwagLabsTests\\SwagLabsTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
