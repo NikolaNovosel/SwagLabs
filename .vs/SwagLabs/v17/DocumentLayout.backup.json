@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\SwagLabs\\SwagLabs\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{EA869DA3-403C-4482-BD03-2B50AF93EC7F}|SwagLabsTests\\SwagLabsTests.csproj|c:\\users\\dell\\source\\repos\\swaglabs\\swaglabs\\swaglabstests\\stepdefinitions\\userlogintablestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA869DA3-403C-4482-BD03-2B50AF93EC7F}|SwagLabsTests\\SwagLabsTests.csproj|solutionrelative:swaglabstests\\stepdefinitions\\userlogintablestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA869DA3-403C-4482-BD03-2B50AF93EC7F}|SwagLabsTests\\SwagLabsTests.csproj|c:\\users\\dell\\source\\repos\\swaglabs\\swaglabs\\swaglabstests\\features\\userlogintable.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EA869DA3-403C-4482-BD03-2B50AF93EC7F}|SwagLabsTests\\SwagLabsTests.csproj|solutionrelative:swaglabstests\\features\\userlogintable.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8A78493-46E0-471C-AAE2-B1945180ECA6}|SwagLabsPages\\SwagLabsPages.csproj|c:\\users\\dell\\source\\repos\\swaglabs\\swaglabs\\swaglabspages\\services\\usercreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8A78493-46E0-471C-AAE2-B1945180ECA6}|SwagLabsPages\\SwagLabsPages.csproj|solutionrelative:swaglabspages\\services\\usercreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,51 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserLoginTableStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SwagLabs\\SwagLabs\\SwagLabsTests\\StepDefinitions\\UserLoginTableStepDefinitions.cs",
-              "RelativeDocumentMoniker": "SwagLabsTests\\StepDefinitions\\UserLoginTableStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SwagLabs\\SwagLabs\\SwagLabsTests\\StepDefinitions\\UserLoginTableStepDefinitions.cs",
-              "RelativeToolTip": "SwagLabsTests\\StepDefinitions\\UserLoginTableStepDefinitions.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAA2wF0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T14:49:03.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserLoginTable.feature",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SwagLabs\\SwagLabs\\SwagLabsTests\\Features\\UserLoginTable.feature",
-              "RelativeDocumentMoniker": "SwagLabsTests\\Features\\UserLoginTable.feature",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SwagLabs\\SwagLabs\\SwagLabsTests\\Features\\UserLoginTable.feature",
-              "RelativeToolTip": "SwagLabsTests\\Features\\UserLoginTable.feature",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI9SURBVDhPddFNaJRXFMbx330nTr411aDvhLZGDSgK4ke7KBT8SFEo3ZTSZhAqhdIidNVdXYmCAcFVKbhy04UmCwVbuygUW2gDpWAX7UJpqlJQZiaJpo6JThInt4v0TWZEz\u002B4\u002B53n\u002B95x7g\u002BfVxbRbsB2b8FRwR91NR8qzTb4YY2gWMJp\u002BhM\u002BxHS3/d\u002BbxJ4YVy5cbIyuAkbQNZ/EZtCZ5c4vzkpBoTfKe1GuZ8wshnDVUqkOyDOBTHIMda7b6ZfCKHau3Otr/vp8OXhZW7johxreywxJgJO3BKeTW5ntUF2Zs7HzFG72vebsw6PHTJ6KYZdpx2rd9QcOOh7FmY\u002BfLfjxwyQ\u002BVn\u002B279q4H8/8am/rN/bnpLJzVHrOLm3ErW2EX3Htccv72BS0hp1KbVKlNulEdNzE31RxfertdGt6gBepx0T\u002Bzd92ojqvV55bdA139hncedyjdv6yhUwPgNgx0b/LV3mEHN7ypt3WddfmXFNrWy4Wcw\u002BkB5/aeaQTctfyNo\u002BkW0V9BSLZ09Xu4UDU2\u002BI0vx8/btnrAtu4B7419rCPXoVSrQI24QbFSXZpgqHwLX0fR3zN3dK/qEkLi9\u002Bk//Dp1XV97qh4XszBcUKxUVyaAkbQPV7Eb1uZ7TM8/lIRER0u7RwszmXNCiPsMVW42A\u002BBi2is4h3fQ1tRbqlkMKZa/y4RmAIwWVoleJx7Dhw2dMj5RLF9t0J4DyGq0cEiM3\u002BMerhBOKpYmnrW9GDBSeJW4E9cl9ZIPJp91gP8An260t87tLxkAAAAASUVORK5CYII=",
-              "WhenOpened": "2025-01-11T14:47:51.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserCreator.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SwagLabs\\SwagLabs\\SwagLabsPages\\Services\\UserCreator.cs",
-              "RelativeDocumentMoniker": "SwagLabsPages\\Services\\UserCreator.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SwagLabs\\SwagLabs\\SwagLabsPages\\Services\\UserCreator.cs",
-              "RelativeToolTip": "SwagLabsPages\\Services\\UserCreator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T14:45:18.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -78,10 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
